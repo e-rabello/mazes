@@ -1,5 +1,5 @@
-Mazes
-:)
+# Mazes :)
+
 Generation:
 - ~~DFS~~
 - Prim's algorithm
