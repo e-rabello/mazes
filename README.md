@@ -5,7 +5,7 @@ Generation:
 - Prim's algorithm
   
 
-Solving
+Solving:
 - DFS
 - BFS
 - Dijkstra
